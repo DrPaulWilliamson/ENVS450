@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom(stats, sd, aggregate, confint.default, addmargins, as.formula, ftable, xtabs, cor.test, chisq.test)
+importFrom(utils, install.packages)
+importFrom(tcltk, tclvalue, tkchooseDirectory)
+importFrom(ggplot2, aes, geom_line, geom_point, ggplot, labs, theme_bw, xlim, ylim)
+importFrom(grid, grid.layout, grid.newpage, pushViewport, viewport)

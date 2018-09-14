@@ -1,0 +1,14 @@
+Package: ENVS450
+Type: Package
+Title: Helper functions for ENVS450
+Version: 0.1.0
+Author: Paul Williamson
+Maintainer: Paul Williamson <P.Williamson@liverpool.ac.uk>
+Depends: R (>= 3.0.0)
+Description: 
+    A series of functions designed to simplify the analysis of social survey data,
+    first created to support teaching of the class ENVS450 Social Survey Analysis.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
